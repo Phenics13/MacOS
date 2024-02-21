@@ -2,14 +2,14 @@
 
 ## Context
 
-1. [🔍 Hints](##🔍 Hints)
-2. [🦄 Applications](##🦄 Applications)
-   1. [Terminal](###Terminal)
-   2. [Helpers](###Hlepers)
-   3. [Development](###Development)
-   4. [Check](###Check)
+1. [🔍 Hints](#🔍Hints)
+2. [🦄 Applications](#🦄 Applications)
+   1. [Terminal](#Terminal)
+   2. [Helpers](#Hlepers)
+   3. [Development](#Development)
+   4. [Check](#Check)
 
-## 🔍 Hints
+## 🔍Hints
 - `ctrl` + `r` in Fish shell - search for commands in list view
 ## 🦄 Applications
 ### Terminal
