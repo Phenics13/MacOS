@@ -1,0 +1,7 @@
+[os]
+format="[$symbol]($style)"
+disabled=false
+
+[os.symbols]
+Macos = " "
+
